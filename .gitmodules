@@ -7,3 +7,9 @@
 [submodule "IEIEUS"]
 	path = IEIEUS
 	url = https://github.com/SalvaChiLlo/IEIEUS.git
+[submodule "IEICAT"]
+	path = IEICAT
+	url = https://github.com/SalvaChiLlo/IEICAT.git
+[submodule "IEICV"]
+	path = IEICV
+	url = https://github.com/SalvaChiLlo/IEICV.git
