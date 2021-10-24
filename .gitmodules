@@ -4,3 +4,6 @@
 [submodule "IEIFront"]
 	path = IEIFront
 	url = https://github.com/SalvaChiLlo/IEIFront.git
+[submodule "IEIEUS"]
+	path = IEIEUS
+	url = https://github.com/SalvaChiLlo/IEIEUS.git
