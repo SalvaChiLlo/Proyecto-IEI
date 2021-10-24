@@ -1,15 +1,15 @@
-[submodule "IEIBack"]
-  path = ./IEIBack
-  url = https://github.com/SalvaChiLlo/IEIBack.git
-[submodule "IEICAT"]
-  path = ./IEICAT
-  url = https://github.com/SalvaChiLlo/IEICAT.git
-[submodule "IEICV"]
-  path = ./IEICV
-  url = https://github.com/SalvaChiLlo/IEICV.git
-[submodule "IEIEUS"]
-  path = ./IEIEUS
-  url = https://github.com/SalvaChiLlo/IEIEUS.git
-[submodule "IEIFront"]
-  path = ./IEIFront
-  url = https://github.com/SalvaChiLlo/IEIFront.git
+[submodule "./IEIBack"]
+  path=./IEIBack
+  url=https://github.com/SalvaChiLlo/IEIBack.git
+[submodule "./IEICAT"]
+  path=./IEICAT
+  url=https://github.com/SalvaChiLlo/IEICAT.git
+[submodule "./IEICV"]
+  path=./IEICV
+  url=https://github.com/SalvaChiLlo/IEICV.git
+[submodule "./IEIEUS"]
+  path=./IEIEUS
+  url=https://github.com/SalvaChiLlo/IEIEUS.git
+[submodule "./IEIFront"]
+  path=./IEIFront
+  url=https://github.com/SalvaChiLlo/IEIFront.git
