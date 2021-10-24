@@ -1,0 +1,1 @@
+const backApp = require('./IEIBack/src/index');
