@@ -1,0 +1,6 @@
+[submodule "IEIBack"]
+	path = IEIBack
+	url = https://github.com/SalvaChiLlo/IEIBack.git
+[submodule "IEIFront"]
+	path = IEIFront
+	url = https://github.com/SalvaChiLlo/IEIFront.git
