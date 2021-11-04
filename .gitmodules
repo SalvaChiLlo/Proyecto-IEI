@@ -13,3 +13,6 @@
 [submodule "IEICV"]
 	path = IEICV
 	url = https://github.com/SalvaChiLlo/IEICV.git
+[submodule "ExtractorEUS"]
+	path = ExtractorEUS
+	url = git@github.com:SalvaChiLlo/ExtractorEUS.git
