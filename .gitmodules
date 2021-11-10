@@ -19,3 +19,6 @@
 [submodule "ExtractorCAT"]
 	path = ExtractorCAT
 	url = git@github.com:SalvaChiLlo/ExtractorCAT.git
+[submodule "ExtractorCV"]
+	path = ExtractorCV
+	url = git@github.com:SalvaChiLlo/ExtractorCV.git
