@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "ts-node index.ts & cd IEIFront && ng serve"
+    "serve": "ts-node index.ts & cd IEIFront && ng serve",
+    "back": "ts-node index.ts"
   },
   "repository": {
     "type": "git",
