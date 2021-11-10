@@ -16,3 +16,6 @@
 [submodule "ExtractorEUS"]
 	path = ExtractorEUS
 	url = git@github.com:SalvaChiLlo/ExtractorEUS.git
+[submodule "ExtractorCAT"]
+	path = ExtractorCAT
+	url = git@github.com:SalvaChiLlo/ExtractorCAT.git
