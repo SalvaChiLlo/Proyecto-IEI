@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "serve": "ts-node index.ts & cd IEIFront && ng serve",
-    "back": "ts-node index.ts"
+    "back": "ts-node index.ts",
+    "install": "git submodule foreach npm install"
   },
   "repository": {
     "type": "git",
