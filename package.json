@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "ts-node index.ts & cd IEIFront && ng serve",
+    "start": "npm run back && npm run serve",
     "back": "ts-node index.ts",
+    "serve": "cd IEIFront && ng serve",
     "install": "git submodule foreach npm install"
   },
   "repository": {
