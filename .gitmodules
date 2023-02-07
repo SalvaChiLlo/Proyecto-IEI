@@ -15,10 +15,10 @@
 	url = https://github.com/SalvaChiLlo/IEICV.git
 [submodule "ExtractorEUS"]
 	path = ExtractorEUS
-	url = git@github.com:SalvaChiLlo/ExtractorEUS.git
+	url = https://github.com/SalvaChiLlo/ExtractorEUS.git
 [submodule "ExtractorCAT"]
 	path = ExtractorCAT
-	url = git@github.com:SalvaChiLlo/ExtractorCAT.git
+	url = https://github.com/SalvaChiLlo/ExtractorCAT.git
 [submodule "ExtractorCV"]
 	path = ExtractorCV
-	url = git@github.com:SalvaChiLlo/ExtractorCV.git
+	url = https://github.com/SalvaChiLlo/ExtractorCV.git
